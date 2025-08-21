@@ -33,7 +33,7 @@ const HomePage = () => {
     <div className="container">
       {/* Header */}
       <div className="header">
-        <h1>E-Commerce</h1>
+        <h1>E-Commerce 2300032134</h1>
         <div className="header-right">
           {isAuthenticated ? (
             <div className="profile-menu">
@@ -86,7 +86,8 @@ const HomePage = () => {
       </div>
 
       {/* Footer */}
-      <div className="footer">@ copyright E-Commerce</div>
+      <div className="footer">@ copyright E-Commerce 2300032134</div>
+
     </div>
   );
 };
